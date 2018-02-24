@@ -1,0 +1,29 @@
+{
+  "name": "quokka-plugin-sharp-pad-react",
+  "version": "0.1.0",
+  "description": "Enable dumping JSX and auto export react in quokka",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EdonGashi/quokka-plugin-sharp-pad-react.git"
+  },
+  "keywords": [
+    "quokka",
+    "React",
+    "SharpPad",
+    "node"
+  ],
+  "author": "Edon Gashi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EdonGashi/quokka-plugin-sharp-pad-react/issues"
+  },
+  "homepage": "https://github.com/EdonGashi/quokka-plugin-sharp-pad-react#readme",
+  "dependencies": {
+    "react": "^16.2.0",
+    "sharp-pad-dump-react": "^0.1.0"
+  }
+}
