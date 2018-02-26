@@ -1,6 +1,6 @@
 {
   "name": "quokka-plugin-sharp-pad-react",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "Enable dumping JSX and auto export react in quokka",
   "main": "index.js",
   "scripts": {
